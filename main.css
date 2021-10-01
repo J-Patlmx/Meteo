@@ -1,0 +1,36 @@
+* {
+    background-color: lightgray; 
+    color: green;
+}
+#ask-weather {
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: block;
+  }
+  
+  #weather-result {
+    text-align: center;
+    font-size: 24px;
+  }
+  
+  #ask-weather2 {
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: block;
+  }
+  #weather-result2 {
+    text-align: center;
+    font-size: 24px;
+  }
+  #ask-weather3 {
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: block;
+  }
+  #weather-result3 {
+    text-align: center;
+    font-size: 24px;
+  }
